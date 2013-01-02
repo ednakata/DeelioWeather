@@ -2,7 +2,13 @@
 <resources>
 
     <string name="app_name">Deelio Weather</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="zipCodeHint">Enter ZIP Code (Ex:  98107)</string>
+    <string name="submitButtonLabel">Submit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_weather">DisplayWeatherActivity</string>
+    <string name="weatherPreText">"The weather in "</string>
+    <string name="weatherPostText"> is </string>
+    <string name="weatherDefaultText">The location for the weather is currently unavailable</string>
 
 </resources>
